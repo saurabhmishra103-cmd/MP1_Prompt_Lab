@@ -30,6 +30,7 @@ MP1_Prompt_Lab/
 ├── requirements.txt
 ├── data/
 └── results.json
+```
 
 ## Run
 python calls.py
