@@ -2,17 +2,17 @@
     {
         "snippet_id": "j01",
         "strategy": "zero_shot",
-        "raw_response": "{\n    \"company\": \"Acme Corp\",\n    \"role\": \"Senior Software Engineer\",\n    \"years_experience_required\": \"5+\"\n}",
+        "raw_response": "{\n    \"company\": \"Acme Corp\",\n    \"role\": \"Senior Software Engineer\",\n    \"years_experience_required\": 5\n}",
         "parsed_response": {
             "company": "Acme Corp",
             "role": "Senior Software Engineer",
-            "years_experience_required": "5+"
+            "years_experience_required": 5
         },
         "parse_success": true,
-        "accuracy": 2,
+        "accuracy": 3,
         "judge_score": 3,
-        "cost": 3.0299999999999998e-05,
-        "latency": 2.437113699998008
+        "cost": 2.97e-05,
+        "latency": 2.536499600013485
     },
     {
         "snippet_id": "j01",
@@ -27,7 +27,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.18e-05,
-        "latency": 2.097213999979431
+        "latency": 1.9703419999859761
     },
     {
         "snippet_id": "j01",
@@ -42,7 +42,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.01e-05,
-        "latency": 2.026080399984494
+        "latency": 1.953888400021242
     },
     {
         "snippet_id": "j01",
@@ -57,7 +57,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.494999999999999e-05,
-        "latency": 2.1438465999963228
+        "latency": 3.2471105000004172
     },
     {
         "snippet_id": "j02",
@@ -72,7 +72,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 2.91e-05,
-        "latency": 2.128947299992433
+        "latency": 2.254183600016404
     },
     {
         "snippet_id": "j02",
@@ -87,7 +87,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.12e-05,
-        "latency": 2.8748684000165667
+        "latency": 1.8829256000171881
     },
     {
         "snippet_id": "j02",
@@ -102,7 +102,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 4.95e-05,
-        "latency": 2.0126532999856863
+        "latency": 1.952054399996996
     },
     {
         "snippet_id": "j02",
@@ -117,7 +117,7 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 6.434999999999999e-05,
-        "latency": 2.33790990000125
+        "latency": 2.0751413999823853
     },
     {
         "snippet_id": "j03",
@@ -132,7 +132,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 3.1049999999999996e-05,
-        "latency": 3.0623106000130065
+        "latency": 2.828579200024251
     },
     {
         "snippet_id": "j03",
@@ -147,7 +147,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.314999999999999e-05,
-        "latency": 2.083891999995103
+        "latency": 2.780805300018983
     },
     {
         "snippet_id": "j03",
@@ -162,7 +162,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.145e-05,
-        "latency": 2.1302531999826897
+        "latency": 1.9113758000021335
     },
     {
         "snippet_id": "j03",
@@ -177,7 +177,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.63e-05,
-        "latency": 2.1917376999917906
+        "latency": 2.0884738000168
     },
     {
         "snippet_id": "j04",
@@ -192,7 +192,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 3.06e-05,
-        "latency": 2.310407499986468
+        "latency": 2.108654200012097
     },
     {
         "snippet_id": "j04",
@@ -207,7 +207,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.27e-05,
-        "latency": 2.1464044000022113
+        "latency": 1.9537992000114173
     },
     {
         "snippet_id": "j04",
@@ -222,7 +222,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.099999999999999e-05,
-        "latency": 2.0602822999935597
+        "latency": 2.030814500001725
     },
     {
         "snippet_id": "j04",
@@ -237,7 +237,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.585e-05,
-        "latency": 2.3048843999858946
+        "latency": 2.097411499998998
     },
     {
         "snippet_id": "j05",
@@ -252,7 +252,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 3.0299999999999998e-05,
-        "latency": 2.313221099990187
+        "latency": 2.3454647999897134
     },
     {
         "snippet_id": "j05",
@@ -265,9 +265,9 @@
         },
         "parse_success": true,
         "accuracy": 2,
-        "judge_score": 3,
+        "judge_score": 2,
         "cost": 9.18e-05,
-        "latency": 2.117262899992056
+        "latency": 2.3381725999934133
     },
     {
         "snippet_id": "j05",
@@ -280,9 +280,9 @@
         },
         "parse_success": true,
         "accuracy": 2,
-        "judge_score": 3,
+        "judge_score": 2,
         "cost": 5.01e-05,
-        "latency": 3.122098099993309
+        "latency": 2.9021008999843616
     },
     {
         "snippet_id": "j05",
@@ -297,22 +297,22 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 6.494999999999999e-05,
-        "latency": 3.173910599987721
+        "latency": 2.1081794000056107
     },
     {
         "snippet_id": "j06",
         "strategy": "zero_shot",
-        "raw_response": "{\n    \"company\": \"Pied Piper Inc.\",\n    \"role\": \"Senior ML Engineer\",\n    \"years_experience_required\": \"7+ years in production ML and distributed systems\"\n}",
+        "raw_response": "{\n    \"company\": \"Pied Piper Inc.\",\n    \"role\": \"Senior ML Engineer\",\n    \"years_experience_required\": \"7+ years\"\n}",
         "parsed_response": {
             "company": "Pied Piper Inc.",
             "role": "Senior ML Engineer",
-            "years_experience_required": "7+ years in production ML and distributed systems"
+            "years_experience_required": "7+ years"
         },
         "parse_success": true,
         "accuracy": 2,
         "judge_score": 3,
-        "cost": 3.615e-05,
-        "latency": 2.1376633000036236
+        "cost": 3.255e-05,
+        "latency": 1.963730299990857
     },
     {
         "snippet_id": "j06",
@@ -327,7 +327,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.345e-05,
-        "latency": 2.0497513000154868
+        "latency": 1.8855826000217348
     },
     {
         "snippet_id": "j06",
@@ -342,7 +342,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.175e-05,
-        "latency": 2.0706633000227157
+        "latency": 2.6170368999883067
     },
     {
         "snippet_id": "j06",
@@ -357,7 +357,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.659999999999999e-05,
-        "latency": 2.3634052999841515
+        "latency": 1.9561737999902107
     },
     {
         "snippet_id": "j07",
@@ -372,7 +372,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 2.9699999999999997e-05,
-        "latency": 3.0007220999978017
+        "latency": 2.0492463000118732
     },
     {
         "snippet_id": "j07",
@@ -387,7 +387,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.18e-05,
-        "latency": 1.9917641000065487
+        "latency": 1.9177143000124488
     },
     {
         "snippet_id": "j07",
@@ -402,7 +402,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.01e-05,
-        "latency": 2.235479099996155
+        "latency": 1.9972038999840152
     },
     {
         "snippet_id": "j07",
@@ -417,7 +417,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.494999999999999e-05,
-        "latency": 2.3213266000093427
+        "latency": 2.053153899993049
     },
     {
         "snippet_id": "j08",
@@ -432,7 +432,7 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 3.18e-05,
-        "latency": 2.2011191000055987
+        "latency": 2.019953999988502
     },
     {
         "snippet_id": "j08",
@@ -447,7 +447,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.389999999999999e-05,
-        "latency": 2.1000247000192758
+        "latency": 1.9223745000199415
     },
     {
         "snippet_id": "j08",
@@ -462,7 +462,7 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 5.2199999999999995e-05,
-        "latency": 2.0766661999805365
+        "latency": 2.0861459000152536
     },
     {
         "snippet_id": "j08",
@@ -477,7 +477,7 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 6.704999999999999e-05,
-        "latency": 2.4143452999996953
+        "latency": 2.0537442000058945
     },
     {
         "snippet_id": "j09",
@@ -490,9 +490,9 @@
         },
         "parse_success": true,
         "accuracy": 2,
-        "judge_score": 3,
+        "judge_score": 2,
         "cost": 3.195e-05,
-        "latency": 3.061803799995687
+        "latency": 2.102405199984787
     },
     {
         "snippet_id": "j09",
@@ -507,7 +507,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.225e-05,
-        "latency": 2.0558603000245057
+        "latency": 2.750941000005696
     },
     {
         "snippet_id": "j09",
@@ -522,7 +522,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.0549999999999995e-05,
-        "latency": 2.1500799999921583
+        "latency": 3.8910743000160437
     },
     {
         "snippet_id": "j09",
@@ -537,7 +537,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.54e-05,
-        "latency": 2.0602655000111554
+        "latency": 1.9396704999962822
     },
     {
         "snippet_id": "j10",
@@ -552,7 +552,7 @@
         "accuracy": 2,
         "judge_score": 2,
         "cost": 3.4949999999999996e-05,
-        "latency": 2.102732700004708
+        "latency": 2.0018723999965005
     },
     {
         "snippet_id": "j10",
@@ -567,7 +567,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.465e-05,
-        "latency": 2.007356799993431
+        "latency": 1.9006120999983978
     },
     {
         "snippet_id": "j10",
@@ -582,7 +582,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.295e-05,
-        "latency": 3.020496800018009
+        "latency": 1.8590986000199337
     },
     {
         "snippet_id": "j10",
@@ -597,6 +597,6 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.78e-05,
-        "latency": 2.9276866000145674
+        "latency": 1.9335614000156056
     }
 ]
