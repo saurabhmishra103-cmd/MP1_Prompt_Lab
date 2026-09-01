@@ -219,3 +219,29 @@ for summary in summary_results:
     )
 
 print("=" * 90)
+
+# SAVE COMPARISON TABLE AS MARKDOWN
+with open("mp1_comparison.md", "w", encoding="utf-8") as file:
+
+    file.write("# Prompt Strategy Comparison\n\n")
+
+    file.write(
+        "| Strategy | Accuracy Mean | Parse Rate | Mean Judge Score | Total Cost | P50 Latency |\n"
+    )
+
+    file.write(
+        "|---|---:|---:|---:|---:|---:|\n"
+    )
+
+    for summary in summary_results:
+
+        file.write(
+            f"| {summary['strategy']} "
+            f"| {summary['accuracy_mean']:.1f}/3 "
+            f"| {summary['parse_rate']:.1f}% "
+            f"| {summary['mean_judge_score']:.2f}/4 "
+            f"| ${summary['total_cost']:.6f} "
+            f"| {summary['p50_latency']:.2f}s |\n"
+        )
+
+print("\nComparison table saved to mp1_comparison.md")
