@@ -12,7 +12,7 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 3.0299999999999998e-05,
-        "latency": 124.67979799999739
+        "latency": 2.437113699998008
     },
     {
         "snippet_id": "j01",
@@ -27,7 +27,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.18e-05,
-        "latency": 123.93684650000068
+        "latency": 2.097213999979431
     },
     {
         "snippet_id": "j01",
@@ -42,7 +42,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.01e-05,
-        "latency": 2.056618900009198
+        "latency": 2.026080399984494
     },
     {
         "snippet_id": "j01",
@@ -57,7 +57,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.494999999999999e-05,
-        "latency": 123.9925002999953
+        "latency": 2.1438465999963228
     },
     {
         "snippet_id": "j02",
@@ -72,7 +72,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 2.91e-05,
-        "latency": 3.1864252999948803
+        "latency": 2.128947299992433
     },
     {
         "snippet_id": "j02",
@@ -87,7 +87,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.12e-05,
-        "latency": 123.94698629999766
+        "latency": 2.8748684000165667
     },
     {
         "snippet_id": "j02",
@@ -102,7 +102,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 4.95e-05,
-        "latency": 1.9479719999944791
+        "latency": 2.0126532999856863
     },
     {
         "snippet_id": "j02",
@@ -117,7 +117,7 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 6.434999999999999e-05,
-        "latency": 124.10831020001206
+        "latency": 2.33790990000125
     },
     {
         "snippet_id": "j03",
@@ -132,7 +132,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 3.1049999999999996e-05,
-        "latency": 124.26961600000504
+        "latency": 3.0623106000130065
     },
     {
         "snippet_id": "j03",
@@ -147,7 +147,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.314999999999999e-05,
-        "latency": 123.70168479997665
+        "latency": 2.083891999995103
     },
     {
         "snippet_id": "j03",
@@ -162,7 +162,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.145e-05,
-        "latency": 1.9344254999887198
+        "latency": 2.1302531999826897
     },
     {
         "snippet_id": "j03",
@@ -177,7 +177,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.63e-05,
-        "latency": 123.80740079999669
+        "latency": 2.1917376999917906
     },
     {
         "snippet_id": "j04",
@@ -192,7 +192,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 3.06e-05,
-        "latency": 123.90168619999895
+        "latency": 2.310407499986468
     },
     {
         "snippet_id": "j04",
@@ -207,7 +207,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.27e-05,
-        "latency": 123.7677732000011
+        "latency": 2.1464044000022113
     },
     {
         "snippet_id": "j04",
@@ -222,7 +222,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.099999999999999e-05,
-        "latency": 124.05178239999805
+        "latency": 2.0602822999935597
     },
     {
         "snippet_id": "j04",
@@ -237,7 +237,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.585e-05,
-        "latency": 2.142033399984939
+        "latency": 2.3048843999858946
     },
     {
         "snippet_id": "j05",
@@ -252,7 +252,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 3.0299999999999998e-05,
-        "latency": 2.0715331999817863
+        "latency": 2.313221099990187
     },
     {
         "snippet_id": "j05",
@@ -265,9 +265,9 @@
         },
         "parse_success": true,
         "accuracy": 2,
-        "judge_score": 2,
+        "judge_score": 3,
         "cost": 9.18e-05,
-        "latency": 124.89606870000716
+        "latency": 2.117262899992056
     },
     {
         "snippet_id": "j05",
@@ -282,7 +282,7 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 5.01e-05,
-        "latency": 1.9242592000227887
+        "latency": 3.122098099993309
     },
     {
         "snippet_id": "j05",
@@ -297,7 +297,7 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 6.494999999999999e-05,
-        "latency": 124.34121270000469
+        "latency": 3.173910599987721
     },
     {
         "snippet_id": "j06",
@@ -312,7 +312,7 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 3.615e-05,
-        "latency": 123.88481640000828
+        "latency": 2.1376633000036236
     },
     {
         "snippet_id": "j06",
@@ -327,7 +327,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.345e-05,
-        "latency": 124.27814479998779
+        "latency": 2.0497513000154868
     },
     {
         "snippet_id": "j06",
@@ -342,7 +342,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.175e-05,
-        "latency": 124.30295359998127
+        "latency": 2.0706633000227157
     },
     {
         "snippet_id": "j06",
@@ -357,7 +357,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.659999999999999e-05,
-        "latency": 123.78404610001598
+        "latency": 2.3634052999841515
     },
     {
         "snippet_id": "j07",
@@ -372,7 +372,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 2.9699999999999997e-05,
-        "latency": 123.79089190001832
+        "latency": 3.0007220999978017
     },
     {
         "snippet_id": "j07",
@@ -387,7 +387,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.18e-05,
-        "latency": 124.06311740001547
+        "latency": 1.9917641000065487
     },
     {
         "snippet_id": "j07",
@@ -402,7 +402,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.01e-05,
-        "latency": 124.08283679999295
+        "latency": 2.235479099996155
     },
     {
         "snippet_id": "j07",
@@ -417,7 +417,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.494999999999999e-05,
-        "latency": 123.92690290001337
+        "latency": 2.3213266000093427
     },
     {
         "snippet_id": "j08",
@@ -432,7 +432,7 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 3.18e-05,
-        "latency": 124.02972419999423
+        "latency": 2.2011191000055987
     },
     {
         "snippet_id": "j08",
@@ -447,7 +447,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.389999999999999e-05,
-        "latency": 1.9648876000137534
+        "latency": 2.1000247000192758
     },
     {
         "snippet_id": "j08",
@@ -462,7 +462,7 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 5.2199999999999995e-05,
-        "latency": 123.81182390000322
+        "latency": 2.0766661999805365
     },
     {
         "snippet_id": "j08",
@@ -477,7 +477,7 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 6.704999999999999e-05,
-        "latency": 2.0370334000035655
+        "latency": 2.4143452999996953
     },
     {
         "snippet_id": "j09",
@@ -492,7 +492,7 @@
         "accuracy": 2,
         "judge_score": 3,
         "cost": 3.195e-05,
-        "latency": 124.04459370000404
+        "latency": 3.061803799995687
     },
     {
         "snippet_id": "j09",
@@ -507,7 +507,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.225e-05,
-        "latency": 123.7233178000024
+        "latency": 2.0558603000245057
     },
     {
         "snippet_id": "j09",
@@ -522,7 +522,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.0549999999999995e-05,
-        "latency": 1.9163613999844529
+        "latency": 2.1500799999921583
     },
     {
         "snippet_id": "j09",
@@ -537,7 +537,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.54e-05,
-        "latency": 124.03181770001538
+        "latency": 2.0602655000111554
     },
     {
         "snippet_id": "j10",
@@ -552,7 +552,7 @@
         "accuracy": 2,
         "judge_score": 2,
         "cost": 3.4949999999999996e-05,
-        "latency": 123.91232790000504
+        "latency": 2.102732700004708
     },
     {
         "snippet_id": "j10",
@@ -567,7 +567,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 9.465e-05,
-        "latency": 123.9545793000143
+        "latency": 2.007356799993431
     },
     {
         "snippet_id": "j10",
@@ -582,7 +582,7 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 5.295e-05,
-        "latency": 123.96390360000078
+        "latency": 3.020496800018009
     },
     {
         "snippet_id": "j10",
@@ -597,6 +597,6 @@
         "accuracy": 3,
         "judge_score": 3,
         "cost": 6.78e-05,
-        "latency": 124.23694139998406
+        "latency": 2.9276866000145674
     }
 ]
